@@ -1,0 +1,8 @@
+{
+  "initial_population": 100,
+  "growth_rate": 0.1,
+  "time_steps": 100,
+  "density_dependent": false,
+  "birth_rate": 0.05,
+  "death_rate": 0.02
+}
